@@ -5,6 +5,10 @@ I am a data science enthusiast and currently looking for new opportunities.⚡�
 Here are a few things I've picked up along my learning journey.
 - Python :snake:
 - SQL 📄
+- HTML :html5:
+- CSS :css:
+- JavaScript :javascript:
+- React JS :react:
 - Machine Learning 💻 
 - Github :octocat:
 
