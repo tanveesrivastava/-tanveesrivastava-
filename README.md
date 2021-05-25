@@ -8,7 +8,7 @@ Here are a few things I've picked up along my learning journey.
 - HTML 
 - CSS
 - JavaScript 
-- React JS 
+- React JS ⚛️
 - Machine Learning 💻 
 - Github :octocat:
 
