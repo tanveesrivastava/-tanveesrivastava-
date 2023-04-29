@@ -8,8 +8,6 @@ Here are a few things I've picked up along my learning journey.
 - HTML5
 - CSS
 - JavaScript 
-- React JS ⚛️
-- Machine Learning 💻 
 - Github :octocat:
 
 ## Get in touch📌
