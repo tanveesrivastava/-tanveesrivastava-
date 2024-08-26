@@ -1,6 +1,6 @@
 # 😃 Hello I am Tanvee Srivastava.👋
-I find solace in technology.💯:bow:
-I am a data science enthusiast and currently looking for new opportunities.⚡📈
+I find solace in technology.💯
+I am a Python enthusiast and currently looking for new opportunities.⚡📈
 ## Learning Stack
 Here are a few things I've picked up along my learning journey.
 - Python :snake:
