@@ -4,6 +4,11 @@ I am a data science enthusiast and currently looking for new opportunities.⚡�
 ## Learning Stack
 Here are a few things I've picked up along my learning journey.
 - Python :snake:
+- Blender
+- Unity
+- Machine Learning
+- Computer Vision
+- Deep Learning
 - SQL 📄
 - HTML5
 - CSS
